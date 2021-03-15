@@ -12,7 +12,7 @@
   "engines": {
     "node": "^12.16.0"
   },
-  "main": "index.html",
+  "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
